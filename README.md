@@ -258,7 +258,7 @@ if (message.text().startsWith("Hello")) {
 
 You can raise some issues, fork this repo, commit your code, submit pull request, and after code review, we can merge your patch. I'm really looking forward to develop more interesting features!
 
-## Thanks for your support!
+## Thanks for your support! Just enjoy it!
 
 <p align="center">
   <a href="https://github.com/kx-Huang/ChatGPT-on-WeChat/stargazers">
